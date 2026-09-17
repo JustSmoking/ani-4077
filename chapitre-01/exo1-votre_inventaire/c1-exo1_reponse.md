@@ -11,3 +11,5 @@ OpenGL : Développée par Khronos, c'est celle que j'ai déjà personnellement u
 Vulkan : Le petit frère d'OpenGL, développé par la même firme. De ce qu'il se dit, il est complexe à en mourir, et je ne l'ai personnellement jamais essayé. Il paraît que dessiner un seul triangle prendrait en moyenne 800 lignes de code ! Ceci est dû au fait qu'il donne un contrôle total au développeur, ce qui allonge le temps de maîtrise et de développement. Il est extrêmement... (la phrase était coupée).
 
 DirectX : L'API graphique de Microsoft, dessinée et optimisée pour Windows et Xbox. Elle existe en plusieurs versions (DX9, DX11, DX12, DX12 Ultimate) : plus on monte dans les versions, plus on gagne en possibilités et... en complexité ! Elle est extrêmement verbeuse (comme Vulkan à partir de la version 12) et donne un contrôle total au développeur !
+
+Metal : APi Grapique dediee au MacOS cree par Apple, je ne sais pas grand chose sur lui 
